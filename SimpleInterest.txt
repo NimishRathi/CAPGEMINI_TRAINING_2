@@ -6,7 +6,7 @@ double Principal = sc.nextDouble();
 double Rate = sc.nextDouble();
 double Time = sc.nextDouble();
 double SimpleInterest = (Principal*Rate*Time)/100;
-System.out.println(SimpleInterest)
+System.out.println(SimpleInterest);
 
 }
 
